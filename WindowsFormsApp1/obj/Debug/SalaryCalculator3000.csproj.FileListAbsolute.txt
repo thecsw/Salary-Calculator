@@ -1,0 +1,14 @@
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SalaryCalculator3000.csproj.GenerateResource.Cache
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SalaryCalculator3000.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Statistics.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginWindow.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Salary Calculator 3000.exe.config
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Salary Calculator 3000.exe
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Salary Calculator 3000.pdb
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Salary3000.Properties.Resources.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Salary Calculator 3000.exe
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Salary Calculator 3000.pdb

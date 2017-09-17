@@ -1,0 +1,29 @@
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MetroFramework.Design.dll
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MetroFramework.dll
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SalaryCalculator3000.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.mainForm.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SalaryCalculator3000.csproj.GenerateResource.Cache
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.LoginWindow.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Statistics.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Salary Calculator 3000.pdb
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Salary3000.Properties.Resources.resources
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Salary Calculator 3000.pdb
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Salary Calculator 3000.exe.config
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Salary Calculator 3000.exe
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Salary Calculator 3000.exe
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Salary Calculator 3000.exe.config
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Salary Calculator 3000.exe
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Salary Calculator 3000.pdb
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MetroFramework.Design.dll
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MetroFramework.dll
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MetroFramework.Fonts.dll
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SalaryCalculator3000.csprojResolveAssemblyReference.cache
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.mainForm.resources
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.LoginWindow.resources
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Salary3000.Properties.Resources.resources
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Statistics.resources
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SalaryCalculator3000.csproj.GenerateResource.Cache
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Salary Calculator 3000.exe
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Salary Calculator 3000.pdb
+C:\Users\thecs\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SalaryCalculator3000.csproj.CoreCompileInputs.cache
