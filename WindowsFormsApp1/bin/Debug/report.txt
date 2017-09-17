@@ -1,0 +1,105 @@
+Complete processed data from Salary Calculator
+
+Amount of employees: 10
+
+Amount of employees with different levels of education:  
+
+	Secondary School Education:    1
+	High School Education:         2
+	College Education:             1
+	University Education:          3
+	Masters Degree Education:      3
+
+Budget information:  
+
+	Overall budget:    432432423.00
+	Salary budget:     432432423.00
+	Premium budget:    0.00
+
+Processed data:  
+
+Average Salary:
+      43243242.30
+Median:
+      55790692.76
+Lower Quartile:
+      8583183.50
+Upper Quartile:
+      73684448.19
+Interquartile Range:
+      65101264.69
+Standard Deviation:
+      27403151.27
+
+List of employees:
+
+	SerineNazaharyan
+		Salary this month:       73684448.19
+		Premium this month:      0.00
+		Education level:         Masters Degree
+		Number of skipped days:  1
+		Overall performance:     90
+
+	AnnaDemurchian
+		Salary this month:       73684448.19
+		Premium this month:      0.00
+		Education level:         Masters Degree
+		Number of skipped days:  34
+		Overall performance:     99
+
+	MarkZuckerberg
+		Salary this month:       73684448.19
+		Premium this month:      0.00
+		Education level:         Masters Degree
+		Number of skipped days:  0
+		Overall performance:     0
+
+	AregPetrosyan
+		Salary this month:       55790692.76
+		Premium this month:      0.00
+		Education level:         University
+		Number of skipped days:  10
+		Overall performance:     50
+
+	DerikPeroomian
+		Salary this month:       55790692.76
+		Premium this month:      0.00
+		Education level:         University
+		Number of skipped days:  3
+		Overall performance:     75
+
+	KarlenAvagyan
+		Salary this month:       55790692.76
+		Premium this month:      0.00
+		Education level:         University
+		Number of skipped days:  1
+		Overall performance:     46
+
+	AnatoliAvagyan
+		Salary this month:       19566748.83
+		Premium this month:      0.00
+		Education level:         College
+		Number of skipped days:  4
+		Overall performance:     69
+
+	SagindykUrazayev
+		Salary this month:       8583183.50
+		Premium this month:      0.00
+		Education level:         High School
+		Number of skipped days:  2
+		Overall performance:     100
+
+	GrigorNalbandyan
+		Salary this month:       8583183.50
+		Premium this month:      0.00
+		Education level:         High School
+		Number of skipped days:  5
+		Overall performance:     80
+
+	VladPolusyan
+		Salary this month:       7273884.32
+		Premium this month:      0.00
+		Education level:         Secondary School
+		Number of skipped days:  2
+		Overall performance:     10
+

@@ -1,0 +1,67 @@
+11
+Serine
+Nazaharyan
+4
+1
+90
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Serine.png
+Anna
+Demurchian
+4
+34
+99
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Ann.png
+Mark
+Zuckerberg
+4
+0
+0
+C:\Users\Sandy\Downloads\Telegram Desktop\MV5BMTkzNjk3ODY0MV5BMl5BanBnXkFtZTcwOTYyMjcxNA@@._V1_UX214_CR0,0,214,317_AL_.jpg
+Areg
+Petrosyan
+3
+10
+50
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Areg.png
+Derik
+Peroomian
+3
+3
+75
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Derik.png
+Karlen
+Avagyan
+3
+1
+46
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Karlen.png
+Anatoli
+Avagyan
+2
+4
+69
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Anatoli.png
+Sagindyk
+Urazayev
+1
+2
+100
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Sandy.jpg
+Grigor
+Nalbandyan
+1
+5
+80
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Grigor.png
+Vlad
+Polusyan
+0
+2
+10
+C:\Users\Sandy\OneDrive\docsStor\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Photos\Vlad.png
+Sandy
+Heh
+4
+43
+23
+C:\Users\thecs\OneDrive\Pictures\15940977_256738368093591_4113324814177820068_n.jpg

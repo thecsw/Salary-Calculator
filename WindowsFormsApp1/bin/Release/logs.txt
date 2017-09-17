@@ -1,0 +1,167 @@
+[04-06-2017|1:33:34 AM] Salary Calculator 3000 has been successfuly executed.
+[04-06-2017|1:33:34 AM] Logged as admin.
+[04-06-2017|1:33:34 AM] Successfully set the language by default- ENGLISH.
+[04-06-2017|1:33:34 AM] Amount of loaded records - 9.
+[04-06-2017|1:33:34 AM] Successfully loaded all records.
+[04-06-2017|1:33:35 AM] Successfully terminated the session 
+[04-06-2017|1:33:35 AM] Successfully terminated the session 
+[04-06-2017|1:33:35 AM] Successfully terminated the session 
+[04-06-2017|1:39:15 AM] Salary Calculator 3000 has been successfuly executed.
+[04-06-2017|1:39:15 AM] Logged as admin.
+[04-06-2017|1:39:15 AM] Successfully set the language by default- ENGLISH.
+[04-06-2017|1:39:15 AM] Amount of loaded records - 9.
+[04-06-2017|1:39:15 AM] Successfully loaded all records.
+[04-06-2017|1:39:25 AM] New record has been successfully added. ID 9 {Assel,Urazayev}
+[04-06-2017|1:39:37 AM] New record has been successfully added. ID 10 {Arsen,Darbasyan}
+[04-06-2017|1:39:51 AM] New record has been successfully added. ID 11 {Mark,Zuckerberg}
+[04-06-2017|1:40:00 AM] The record has been successfully deleted. ID 9 {Assel,Urazayev}
+[04-06-2017|1:40:06 AM] Successfully calculated salaries. 
+[04-06-2017|1:40:10 AM] All records have been successfully sorted. 
+[04-06-2017|1:40:23 AM] The record has been successfully updated. ID 6 {Mark,Zuckerberg}
+[04-06-2017|1:41:59 AM] Salary Calculator 3000 has been successfuly executed.
+[04-06-2017|1:41:59 AM] Logged as admin.
+[04-06-2017|1:41:59 AM] Successfully set the language by default- ENGLISH.
+[04-06-2017|1:41:59 AM] Amount of loaded records - 11.
+[04-06-2017|1:41:59 AM] Successfully loaded all records.
+[04-06-2017|1:42:06 AM] The record has been successfully updated. ID 6 {Mark,Zuckerberg}
+[04-06-2017|1:42:12 AM] Successfully calculated salaries. 
+[04-06-2017|1:42:13 AM] All records have been successfully sorted. 
+[04-06-2017|1:42:19 AM] The record has been successfully updated. ID 6 {Mark,Zuckerberg}
+[04-06-2017|1:42:21 AM] Successfully calculated salaries. 
+[04-06-2017|1:42:23 AM] All records have been successfully sorted. 
+[04-06-2017|1:42:27 AM] The record has been successfully deleted. ID 2 {Arsen,Darbasyan}
+[04-06-2017|1:42:31 AM] The record has been successfully deleted. ID 2 {Mark,Zuckerberg}
+[04-06-2017|1:42:33 AM] All records have been successfully sorted. 
+[04-06-2017|1:42:38 AM] Successfully activated debug tools. 
+[04-06-2017|1:42:46 AM] Successfully saved the full report. 
+[04-06-2017|1:42:53 AM] Successfully terminated the session 
+[04-06-2017|1:42:53 AM] Successfully terminated the session 
+[04-06-2017|1:42:53 AM] Successfully terminated the session 
+[05-06-2017|2:18:21 PM] Salary Calculator 3000 has been successfuly executed.
+[05-06-2017|2:18:21 PM] Logged as admin.
+[05-06-2017|2:18:21 PM] Successfully set the language by default- ENGLISH.
+[05-06-2017|2:18:21 PM] Amount of loaded records - 10.
+[05-06-2017|2:18:21 PM] Successfully loaded all records.
+[22-06-2017|5:55:59 PM] Salary Calculator 3000 has been successfuly executed.
+[22-06-2017|5:55:59 PM] Logged as admin.
+[22-06-2017|5:55:59 PM] Successfully set the language by default- ENGLISH.
+[22-06-2017|5:55:59 PM] Amount of loaded records - 10.
+[22-06-2017|5:55:59 PM] Successfully loaded all records.
+[24-06-2017|5:32:05 PM] Salary Calculator 3000 has been successfuly executed.
+[24-06-2017|5:32:05 PM] Logged as admin.
+[24-06-2017|5:32:05 PM] Successfully set the language by default- ENGLISH.
+[24-06-2017|5:32:05 PM] Amount of loaded records - 10.
+[24-06-2017|5:32:05 PM] Successfully loaded all records.
+[24-06-2017|6:35:41 PM] Salary Calculator 3000 has been successfuly executed.
+[24-06-2017|6:35:41 PM] Logged as admin.
+[24-06-2017|6:35:41 PM] Successfully set the language by default- ENGLISH.
+[24-06-2017|6:35:41 PM] Amount of loaded records - 10.
+[24-06-2017|6:35:41 PM] Successfully loaded all records.
+[24-06-2017|6:35:44 PM] Successfully saved the full report. 
+[24-06-2017|6:35:55 PM] Salary Calculator 3000 has been successfuly executed.
+[24-06-2017|6:35:55 PM] Logged as admin.
+[24-06-2017|6:35:55 PM] Successfully set the language by default- ENGLISH.
+[24-06-2017|6:35:55 PM] Amount of loaded records - 10.
+[24-06-2017|6:35:55 PM] Successfully loaded all records.
+[24-06-2017|6:35:57 PM] Successfully set the language to RUSSIAN. 
+[24-06-2017|6:35:57 PM] Successfully set the language to ENGLISH. 
+[24-06-2017|6:38:37 PM] Salary Calculator 3000 has been successfuly executed.
+[24-06-2017|6:38:37 PM] Logged as admin.
+[24-06-2017|6:38:37 PM] Successfully set the language by default- ENGLISH.
+[24-06-2017|6:38:37 PM] Amount of loaded records - 10.
+[24-06-2017|6:38:37 PM] Successfully loaded all records.
+[24-06-2017|6:38:38 PM] Successfully set the language to RUSSIAN. 
+[24-06-2017|6:38:38 PM] Successfully set the language to ENGLISH. 
+[24-06-2017|6:38:38 PM] Successfully set the language to RUSSIAN. 
+[27-06-2017|5:16:34 AM] Salary Calculator 3000 has been successfuly executed.
+[27-06-2017|5:16:34 AM] Logged as admin.
+[27-06-2017|5:16:34 AM] Successfully set the language by default- ENGLISH.
+[27-06-2017|5:16:34 AM] Amount of loaded records - 10.
+[27-06-2017|5:16:34 AM] Successfully loaded all records.
+[28-06-2017|9:33:31 AM] Salary Calculator 3000 has been successfuly executed.
+[28-06-2017|9:33:31 AM] Logged as admin.
+[28-06-2017|9:33:31 AM] Successfully set the language by default- ENGLISH.
+[28-06-2017|9:33:31 AM] Amount of loaded records - 10.
+[28-06-2017|9:33:31 AM] Successfully loaded all records.
+[28-06-2017|9:42:34 AM] Salary Calculator 3000 has been successfuly executed.
+[28-06-2017|9:42:34 AM] Logged as admin.
+[28-06-2017|9:42:34 AM] Successfully set the language by default- ENGLISH.
+[28-06-2017|9:42:34 AM] Amount of loaded records - 10.
+[28-06-2017|9:42:34 AM] Successfully loaded all records.
+[28-06-2017|9:42:39 AM] Successfully calculated salaries. 
+[28-06-2017|9:42:42 AM] Successfully saved the full report. 
+[05-07-2017|1:09:12 AM] Salary Calculator has been successfuly executed.
+[05-07-2017|1:09:12 AM] Logged as admin.
+[05-07-2017|1:09:12 AM] Successfully set the language by default- ENGLISH.
+[05-07-2017|1:09:12 AM] Amount of loaded records - 10.
+[05-07-2017|1:09:12 AM] Successfully loaded all records.
+[06-07-2017|9:35:16 PM] Salary Calculator has been successfuly executed.
+[06-07-2017|9:35:16 PM] Logged as admin.
+[06-07-2017|9:35:16 PM] Successfully set the language by default- ENGLISH.
+[06-07-2017|9:35:16 PM] Amount of loaded records - 10.
+[06-07-2017|9:35:16 PM] Successfully loaded all records.
+[06-07-2017|9:35:18 PM] New record has been successfully added. ID 9 {Vlad,Polusyan}
+[06-07-2017|9:35:22 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:22 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:23 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:23 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:23 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:23 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:23 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:23 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:24 PM] All records have been successfully sorted. 
+[06-07-2017|9:35:24 PM] All records have been successfully sorted. 
+[27-08-2017|2:05:54 PM] Salary Calculator has been successfuly executed.
+[27-08-2017|2:05:54 PM] Logged as admin.
+[27-08-2017|2:05:54 PM] Successfully set the language by default- ENGLISH.
+[27-08-2017|2:05:54 PM] Amount of loaded records - 10.
+[27-08-2017|2:05:54 PM] Successfully loaded all records.
+[27-08-2017|2:06:01 PM] Successfully calculated salaries. 
+[27-08-2017|2:06:08 PM] All records have been successfully sorted. 
+[27-08-2017|3:29:23 PM] Salary Calculator has been successfuly executed.
+[27-08-2017|3:29:23 PM] Logged as accountant.
+[27-08-2017|3:29:23 PM] Successfully set the language by default- ENGLISH.
+[27-08-2017|3:29:23 PM] Amount of loaded records - 10.
+[27-08-2017|3:29:23 PM] Successfully loaded all records.
+[27-08-2017|3:29:33 PM] Successfully calculated salaries. 
+[27-08-2017|3:29:35 PM] Successfully saved the full report. 
+[27-08-2017|3:39:18 PM] Salary Calculator has been successfuly executed.
+[27-08-2017|3:39:18 PM] Logged as admin.
+[27-08-2017|3:39:18 PM] Successfully set the language by default- ENGLISH.
+[27-08-2017|3:39:18 PM] Amount of loaded records - 10.
+[27-08-2017|3:39:18 PM] Successfully loaded all records.
+[27-08-2017|3:39:20 PM] Successfully calculated salaries. 
+[27-08-2017|3:39:23 PM] Successfully saved the full report. 
+[27-08-2017|3:39:25 PM] Successfully terminated the session 
+[27-08-2017|3:39:25 PM] Successfully terminated the session 
+[27-08-2017|3:40:45 PM] Salary Calculator has been successfuly executed.
+[27-08-2017|3:40:45 PM] Logged as accountant.
+[27-08-2017|3:40:45 PM] Successfully set the language by default- ENGLISH.
+[27-08-2017|3:40:45 PM] Amount of loaded records - 10.
+[27-08-2017|3:40:45 PM] Successfully loaded all records.
+[27-08-2017|3:40:48 PM] Successfully calculated salaries. 
+[27-08-2017|3:40:51 PM] Successfully saved the full report. 
+[27-08-2017|3:40:53 PM] Successfully saved the full report. 
+[27-08-2017|3:40:59 PM] Successfully calculated salaries. 
+[27-08-2017|3:40:59 PM] Successfully calculated salaries. 
+[27-08-2017|3:41:01 PM] Successfully saved the full report. 
+[27-08-2017|3:41:03 PM] Successfully terminated the session 
+[27-08-2017|3:41:03 PM] Successfully terminated the session 
+[27-08-2017|3:41:03 PM] Successfully terminated the session 
+[17-09-2017|8:27:24 PM] Salary Calculator has been successfuly executed.
+[17-09-2017|8:27:24 PM] Logged as admin.
+[17-09-2017|8:27:24 PM] Successfully set the language by default- ENGLISH.
+[17-09-2017|8:27:24 PM] Amount of loaded records - 10.
+[17-09-2017|8:27:24 PM] Successfully loaded all records.
+[17-09-2017|8:27:54 PM] New record has been successfully added. ID 10 {Sandy,Heh}
+[17-09-2017|8:28:01 PM] Successfully terminated the session 
+[17-09-2017|8:28:01 PM] Successfully terminated the session 
+[17-09-2017|8:28:01 PM] Successfully terminated the session 
+[17-09-2017|8:28:29 PM] Salary Calculator has been successfuly executed.
+[17-09-2017|8:28:29 PM] Logged as admin.
+[17-09-2017|8:28:29 PM] Successfully set the language by default- ENGLISH.
+[17-09-2017|8:28:29 PM] Amount of loaded records - 11.
+[17-09-2017|8:28:29 PM] Successfully loaded all records.
+[17-09-2017|8:28:32 PM] Successfully terminated the session 
+[17-09-2017|8:28:32 PM] Successfully terminated the session 
+[17-09-2017|8:28:32 PM] Successfully terminated the session 
