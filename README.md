@@ -6,10 +6,10 @@
 \                         Urazayev   /
   —----------------------------------
         \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+         \  (oo)\_______                                                                                                            
+            (__)\       )\/\                                                                                                               
+                ||----w |                                                                                                                 
+                ||     ||                                                                                                                  
 /// This Application calculates employees salary.
 /// Additional features:
 /// 1. Login with different accounts: admin, accountant and supervisor, therefore with different access levels to
