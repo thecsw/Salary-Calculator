@@ -1,7 +1,6 @@
 # Salary-Calculator
 
-/*
- ____________________________________
+ __________________________________
 / Salary Calculator 3000 by Sagindyk \
 \                         Urazayev   /
   —----------------------------------
@@ -27,4 +26,3 @@
 /// 10. Sort all record by the salaray in descending order.
 /// 11. Save everything into txt file
 /// 12. Log files
-*/
