@@ -1,4 +1,5 @@
 # Salary-Calculator
+# I dont know why it's all rubbish
 
  __________________________________
 / Salary Calculator 3000 by Sagindyk \
@@ -9,7 +10,7 @@
             (__)\       )\/\                                                                                                               
                 ||----w |                                                                                                                 
                 ||     ||                                                                                                                  
-/// This Application calculates employees salary.
+ This Application calculates employees salary.
 /// Additional features:
 /// 1. Login with different accounts: admin, accountant and supervisor, therefore with different access levels to
 /// prevent integrity, privacy, security, relaiblity and policy issues.
