@@ -1,6 +1,5 @@
 # Salary-Calculator
 
-# I dont know why it's all rubbish
 ```
  __________________________________
 
@@ -8,10 +7,10 @@
 \                         Urazayev   /
   —----------------------------------
         \   ^__^
-         \  (oo)\_______                                                                                                            
-            (__)\       )\/\                                                                                                               
-                ||----w |                                                                                                                 
-                ||     ||                                                                                                                  
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 
 This Application calculates employees salary.
