@@ -13,12 +13,13 @@ using System.Security.Cryptography;
 using System.Runtime.InteropServices;
 
 namespace WindowsFormsApp1 {
-public partial class LoginWindow : MetroFramework.Forms.MetroForm {
-	public LoginWindow() {
-		InitializeComponent();
-	}
+public
+partial class LoginWindow : MetroFramework.Forms.MetroForm {
+  public
+	LoginWindow() { InitializeComponent(); }
 	String abb, usser;
-	private void button1_Click(object sender, EventArgs e) {
+  private
+	void button1_Click(object sender, EventArgs e) {
 		if (MR.Checked == false && MRS.Checked == false && MS.Checked == false) {
 			MessageBox.Show("Please choose personal title");
 			return;
@@ -32,12 +33,18 @@ public partial class LoginWindow : MetroFramework.Forms.MetroForm {
 			return;
 		}
 		StreamWriter sww = new StreamWriter("login.txt");
-		if (SUPER.Checked == true) usser = "user";
-		if (ADMIN.Checked == true) usser = "admin";
-		if (ACC.Checked == true) usser = "accountant";
-		if (MR.Checked == true) abb = "Mr.";
-		if (MS.Checked == true) abb = "Ms.";
-		if (MRS.Checked == true) abb = "Mrs.";
+		if (SUPER.Checked == true)
+			usser = "user";
+		if (ADMIN.Checked == true)
+			usser = "admin";
+		if (ACC.Checked == true)
+			usser = "accountant";
+		if (MR.Checked == true)
+			abb = "Mr.";
+		if (MS.Checked == true)
+			abb = "Ms.";
+		if (MRS.Checked == true)
+			abb = "Mrs.";
 		sww.WriteLine(usser);
 		sww.WriteLine(abb + " " + nameTT.Text);
 		sww.Close();
@@ -46,48 +53,52 @@ public partial class LoginWindow : MetroFramework.Forms.MetroForm {
 		this.Hide();
 	}
 
-	private void MR_Click(object sender, EventArgs e) {
+  private
+	void MR_Click(object sender, EventArgs e) {
 		MRS.Checked = false;
 		MS.Checked = false;
 		MR.Checked = true;
 	}
 
-	private void MS_Click(object sender, EventArgs e) {
+  private
+	void MS_Click(object sender, EventArgs e) {
 		MR.Checked = false;
 		MRS.Checked = false;
 		MS.Checked = true;
 	}
 
-	private void MRS_Click(object sender, EventArgs e) {
+  private
+	void MRS_Click(object sender, EventArgs e) {
 		MR.Checked = false;
 		MS.Checked = false;
 		MRS.Checked = true;
 	}
 
-	private void ADMIN_Click(object sender, EventArgs e) {
+  private
+	void ADMIN_Click(object sender, EventArgs e) {
 		ADMIN.Checked = true;
 		ACC.Checked = false;
 		SUPER.Checked = false;
 	}
 
-	private void LoginWindow_FormClosed(object sender, FormClosedEventArgs e) {
-		Application.Exit();
-	}
+  private
+	void LoginWindow_FormClosed(object sender, FormClosedEventArgs e) { Application.Exit(); }
 
-	private void LoginWindow_FormClosing(object sender, FormClosingEventArgs e) {
-		Application.Exit();
-	}
+  private
+	void LoginWindow_FormClosing(object sender, FormClosingEventArgs e) { Application.Exit(); }
 
-	private void ACC_Click(object sender, EventArgs e) {
+  private
+	void ACC_Click(object sender, EventArgs e) {
 		ADMIN.Checked = false;
 		SUPER.Checked = false;
 		ACC.Checked = true;
 	}
 
-	private void USER_Click(object sender, EventArgs e) {
+  private
+	void USER_Click(object sender, EventArgs e) {
 		ADMIN.Checked = false;
 		ACC.Checked = false;
 		SUPER.Checked = true;
 	}
 }
-}
+} // namespace WindowsFormsApp1
